@@ -1,0 +1,5 @@
+
+
+// put assests folder inside frontend/src
+// npm install for admin, frontend, Backend
+// products are visible after adding through admin panel

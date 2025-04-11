@@ -76,7 +76,7 @@ import cross_icon from './cross_icon.png'
 import  banner from './banner.png'
 import contact1 from './contact1.png'
 import image from './image.png'
-import trust1 from './trust1'
+import trust1 from './trust1.png'
 
 export const assets = {
     logo,

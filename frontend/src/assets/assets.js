@@ -77,6 +77,7 @@ import  banner from './banner.png'
 import contact1 from './contact1.png'
 import image from './image.png'
 import trust1 from './trust1.png'
+import logo1 from './logo1.jpg'
 
 export const assets = {
     logo,
@@ -100,7 +101,8 @@ export const assets = {
     trust1,
     image,
     contact1,
-    banner
+    banner,
+    logo1
 }
 
 export const products = [
